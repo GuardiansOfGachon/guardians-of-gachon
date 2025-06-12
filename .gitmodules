@@ -4,3 +4,6 @@
 [submodule "third_party/ros-humble-ros1-bridge-builder"]
 	path = third_party/ros-humble-ros1-bridge-builder
 	url = https://github.com/TommyChangUMD/ros-humble-ros1-bridge-builder.git
+[submodule "third_party/jetson-containers"]
+	path = third_party/jetson-containers
+	url = https://github.com/dusty-nv/jetson-containers.git
