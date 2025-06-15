@@ -44,10 +44,13 @@ Additionally, the system’s performance was verified through realistic scenario
 * Edge device deployment (Jetson Orin Nano)
 * Visual/audio alert delivery to Android application
 * Scenario-based performance validation using MORAI SIM
+  
+---
 
 ## System Architecture
 
 ![image](https://github.com/user-attachments/assets/4ccbedd3-66bf-440d-9496-c23b8b3d1efd)
+
 ---
 
 ## System Requirements
@@ -58,6 +61,7 @@ Additionally, the system’s performance was verified through realistic scenario
 | Jetson Orin Nano | Ubuntu 22.04, JetPack 6.0, ROS2 Humble            |
 
 ---
+
 ## Directory Structure
 
 ```plaintext
@@ -68,7 +72,6 @@ Additionally, the system’s performance was verified through realistic scenario
 ├── third_party/                      # Third-party libraries
 └── .gitmodules                       # Git submodule settings
 ```
-
 ---
 
 ## Installation and Build
