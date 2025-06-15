@@ -226,7 +226,8 @@ source /ros2_workspace/install/setup.bash
 ## Contributors
 
 * Dahye Kim ([GitHub](https://github.com/dahye411))
-* MinSeo Lee ([GitHub](https://github.com/minxxeo))
-
+* Minseo Lee ([GitHub](https://github.com/minxxeo))
+* Saewon Min ([GitHub](https://github.com/saewonalice))
+ 
 ---
 
