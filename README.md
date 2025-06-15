@@ -1,4 +1,4 @@
-# 🚨Gachon Police: AI-Based Road Situation Alert System🛣️
+# 🚨Gachon Police: AI-Based Road Situation Alert System
 
 ## Table of Contents
 
