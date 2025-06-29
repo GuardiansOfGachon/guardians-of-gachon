@@ -59,7 +59,7 @@ Additionally, the system’s performance was verified through realistic scenario
 
 | Component        | Specification                                     |
 | ---------------- | ------------------------------------------------- |
-| Host PC          | Ubuntu 20.04, MORAI SIM, ROS1 Noetic, Python ≥3.8 |
+| Host PC          | Ubuntu 20.04, MORAI SIM, ROS1 Noetic, Python ≥ 3.8 |
 | Jetson Orin Nano | Ubuntu 22.04, JetPack 6.0, ROS2 Humble            |
 
 ---
@@ -219,9 +219,9 @@ source /ros2_workspace/install/setup.bash
    ```
 
 ### 5. Run Android Application (in Host PC)
-   * Open the `application/` folder in Android Studio.
-   * Connect a device or start an emulator.
-   * Click ▶ Run to launch the app.
+   * Open the `application/` folder in Android Studio
+   * Connect a device or start an emulator
+   * Click ▶ Run to launch the app
 
 ---
 
